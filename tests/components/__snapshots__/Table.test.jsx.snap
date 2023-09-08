@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`table component Snapshoot of component 1`] = `
+<div>
+  <table>
+    <ul
+      class="nav nav-tabs  "
+    >
+      <li
+        class="nav-item"
+      >
+        <a
+          aria-current="page"
+          class="nav-link active"
+          href="#"
+        >
+          Active
+        </a>
+      </li>
+      <li
+        class="nav-item"
+      >
+        <a
+          class="nav-link"
+          href="#"
+        >
+          Link
+        </a>
+      </li>
+      <li
+        class="nav-item disabled"
+      >
+        <a
+          class="nav-link"
+          href="#"
+        >
+          Disabled
+        </a>
+      </li>
+    </ul>
+  </table>
+</div>
+`;

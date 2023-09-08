@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@babel/preset-react": "^7.22.15",
+    "@testing-library/react": "^14.0.0",
     "jest-environment-jsdom": "^29.6.4",
     "whatwg-fetch": "^3.6.18"
   },
